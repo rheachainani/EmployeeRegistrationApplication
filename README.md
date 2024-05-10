@@ -36,6 +36,8 @@ On clicking ‘Register Employee’ after filling all the fields:
 ![Screenshot 2024-05-10 120911](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/b79fcce8-e749-475a-af62-600345863f04)
 On clicking ‘Update Employee’ after filling all the fields with required updates:
 ![Screenshot 2024-05-10 120955](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/34a1122d-c8f2-490a-a428-e53f7be54908)
+On trying to register user with duplicate Employee ID:
+![Screenshot 2024-05-10 135445](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/66b4b0ad-eaae-40cc-9fe7-a30414a62a80)
 On clicking ‘View Employees’:
 ![Screenshot 2024-05-10 121010](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/0441ca77-90ec-4e17-8b0f-da1766dd6b45)
 
