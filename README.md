@@ -28,10 +28,15 @@ This JavaFX application allows users to perform various operations related to em
 ## Screenshots
 
 ![Screenshot 2024-05-10 120717](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/4c06321d-bcb8-4aaa-a9f5-b8ca085b29f3)
+On clicking ‘Create Employee Table’ when table already exists:
 ![Screenshot 2024-05-10 120735](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/ba6a9dd2-f05a-4f82-925b-f20370787ddf)
+On clicking ‘Register Employee’ or ‘Update Employee’ without filling all the fields:
 ![Screenshot 2024-05-10 120749](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/3809cf78-7b47-4a2f-9016-0da370be67ec)
+On clicking ‘Register Employee’ after filling all the fields:
 ![Screenshot 2024-05-10 120911](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/b79fcce8-e749-475a-af62-600345863f04)
+On clicking ‘Update Employee’ after filling all the fields with required updates:
 ![Screenshot 2024-05-10 120955](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/34a1122d-c8f2-490a-a428-e53f7be54908)
+On clicking ‘View Employees’:
 ![Screenshot 2024-05-10 121010](https://github.com/rheachainani/EmployeeRegistrationApplication/assets/112756676/0441ca77-90ec-4e17-8b0f-da1766dd6b45)
 
 ## Technologies Used
